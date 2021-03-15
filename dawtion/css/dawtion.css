@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+
+:root {
+    --background-color: #051014;
+    --panel-background: #222422;
+    --panel-highlight: #37636D;
+
+    --panel-shadow: drop-shadow(0 0 10px #121212);
+    --panel-highlight-shadow: drop-shadow(0 0 10px #37636D);
+
+    --text-white: #F5F2E7;
+    --accent-red: #A73335;
+    --accent-orange: #FF9235;
+    --accent-mint: #28C5AE;
+}
