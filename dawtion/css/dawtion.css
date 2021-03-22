@@ -14,3 +14,9 @@
     --accent-orange: #FF9235;
     --accent-mint: #28C5AE;
 }
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-white);
+    font-family: 'Kanit';
+}
